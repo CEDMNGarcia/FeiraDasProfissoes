@@ -229,7 +229,17 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 100px;
+}
+
+.galery-button{
+    text-decoration: none;
+    color: var(--backgraound-color);
+    background-color: var(--red-senai);
+    padding: 10px 20px;
+    position: relative;
+    top: 20px;
+    border-radius: 20px;
 }
 
 .info-event {
@@ -240,6 +250,7 @@ body {
     font-size: 60px;
     width: 100%;
     color: var(--title-color);
+    font-weight: 500;
     line-height: 1;
     margin-bottom: 10px;
 }
