@@ -20,5 +20,3 @@ Criar uma plataforma simples onde os usuários pudessem:
 - CSS3
 - JavaScript (básico)
 - (Planejado: Firebase ou algum banco de dados para armazenar inscrições)
-
-## 📂 Estrutura do Projeto
